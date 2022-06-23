@@ -1,0 +1,2 @@
+C:\Users\Callu\OneDrive\Desktop\Treasure In Paradise\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Callu\OneDrive\Desktop\Treasure In Paradise\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

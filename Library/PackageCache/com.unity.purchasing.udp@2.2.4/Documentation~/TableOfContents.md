@@ -1,0 +1,8 @@
+* [Overview](index)
+    * [What's new](whats-new)
+    * [Upgrade guide](upgrade-guide)
+* [Getting started with the UDP package](getting-started)
+* [Implementing in-app purchases with the UDP package](games-with-iap)
+* [Implementing premium games](premium-games)
+* [Building your game](building-your-game)
+* [UDP package reference](udp-package-reference)

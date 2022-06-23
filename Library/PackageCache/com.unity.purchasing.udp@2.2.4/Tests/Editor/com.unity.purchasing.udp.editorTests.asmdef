@@ -1,0 +1,15 @@
+{
+    "name": "com.unity.purchasing.udp.EditorTests",
+    "references": [
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+     "precompiledReferences": [
+        "UDP.dll"
+    ],
+    "excludePlatforms": []
+}

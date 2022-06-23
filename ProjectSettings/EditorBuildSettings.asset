@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Examples/Maze/MazeLevel0.unity
+    guid: 029e597475c3944a5b42678232c2822b
+  - enabled: 0
+    path: Assets/Examples/Maze/MazeLevel1.unity
+    guid: f9b71d909be1c4e9dbb8b3599d76b33c
+  - enabled: 0
+    path: Assets/Examples/Adventure/Adventure.unity
+    guid: f723b1979947445779b87ef7a1089a32
+  - enabled: 0
+    path: Assets/Examples/Football/Football.unity
+    guid: 8b655b0fb8d8c4758a154fd99dc41447
+  - enabled: 0
+    path: Assets/Examples/Lander/Lander.unity
+    guid: 3925160d1efe749d5a026cbf18c60f83
+  - enabled: 0
+    path: Assets/Examples/Roguelike/Roguelike.unity
+    guid: ad15a26015e49439387b05c22fe7a962
+  - enabled: 1
+    path: Assets/Scenes/Login Scene.unity
+    guid: e84551c225869d94f97a6522f30aaab6
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 911a4f6f3c93b6f499fa1437e82843ec
+  - enabled: 1
+    path: Assets/Scenes/Help Scene.unity
+    guid: 01fdf2518780f9c47aafb1d52a7da40f
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 931fdc4ee05520e41a0fedcbb933644d
+  - enabled: 1
+    path: Assets/Scenes/L1 Timeout Scene.unity
+    guid: 70800821f1af61c4cb918577326e17b6
+  - enabled: 1
+    path: Assets/Scenes/L1 Death Scene.unity
+    guid: dabc30f19c6a01d4b98c47716f647738
+  - enabled: 1
+    path: Assets/Scenes/L1 Scoreboard.unity
+    guid: 5e81af7cf1def0249b4e9c408f42500c
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 417292a82065e444493db9d791d3c9bc
+  - enabled: 1
+    path: Assets/Scenes/L2 Timeout Scene.unity
+    guid: 6190db198a09c8d4d96cc6e4e1452a33
+  - enabled: 1
+    path: Assets/Scenes/L2 Death Scene.unity
+    guid: 894bf104ab9be1742a92a844a0610785
+  - enabled: 1
+    path: Assets/Scenes/L2 Scoreboard.unity
+    guid: e1206b884f2512f468405b6be742655f
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 45ff87290aad57f4b8ee6ded13ac0290
+  - enabled: 1
+    path: Assets/Scenes/L3 Timeout Scene.unity
+    guid: 747c15d88c4e3284d83ae2b74446f3ee
+  - enabled: 1
+    path: Assets/Scenes/L3 Death Scene.unity
+    guid: 9a26baa65542ea74494685f6fb8c4351
+  - enabled: 1
+    path: Assets/Scenes/L3 Scoreboard.unity
+    guid: f0881cd045f153a4f8f5b486eb50b125
+  - enabled: 1
+    path: Assets/Scenes/Final Scoreboard.unity
+    guid: 63ec2222bd9a1f045a2c07fc1fa65909
+  m_configObjects: {}
